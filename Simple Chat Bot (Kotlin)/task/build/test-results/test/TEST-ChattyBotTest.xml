@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ChattyBotTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-10T07:03:00" hostname="dineshs-MacBook-Air.local" time="0.045">
+<testsuite name="ChattyBotTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-10T07:07:06" hostname="dineshs-MacBook-Air.local" time="0.05">
   <properties/>
-  <testcase name="start" classname="ChattyBotTest" time="0.045"/>
+  <testcase name="start" classname="ChattyBotTest" time="0.05"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
-Hello! My name is Virat.
-I was created in 2024.
+Hello! My name is Aid.
+I was created in 2020.
+Please, remind me your name.
+> John
+What a great name you have, John!
+?[1;31m
+Start test 2?[0m
+Hello! My name is Aid.
+I was created in 2020.
+Please, remind me your name.
+> Nick
+What a great name you have, Nick!
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

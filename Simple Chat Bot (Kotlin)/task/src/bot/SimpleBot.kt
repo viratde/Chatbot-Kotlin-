@@ -1,6 +1,17 @@
 package bot
 
+import java.util.Scanner
+
+
 fun main() {
-    // write your code here
-    println("Hello! My name is Virat.\nI was created in 2024.")
+    val scanner = Scanner(System.`in`)
+
+    println("Hello! My name is Aid.")
+    println("I was created in 2020.")
+    println("Please, remind me your name.")
+
+    // reading a name
+    val userName = readln()
+
+    println("What a great name you have, $userName!")
 }
